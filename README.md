@@ -7,7 +7,7 @@
 ## How to run script
 
 ```
-python ./robot-dreams-task.py
+python ./robot_dreams_task.py
 ```
 
 ## Result
